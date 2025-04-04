@@ -1,2 +1,2 @@
 # todo-list-app
-A todo list application built using React Niative. For personal training use.
+A todo list application built using React Native. For personal training use.
